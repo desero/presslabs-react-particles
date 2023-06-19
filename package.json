@@ -1,6 +1,6 @@
 {
   "name": "presslabs-react-particles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React particles for presslabs",
   "main": "lib/particles/index.js",
   "scripts": {
